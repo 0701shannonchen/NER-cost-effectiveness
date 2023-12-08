@@ -8,3 +8,5 @@ collections
 nltk
 torchinfo
 pyJoules
+flair
+adjusttext
