@@ -10,6 +10,6 @@ Named Entity Recognition (NER) Corpus
 
 ## Notes
 
-- Install the libraries listed in ```requirements.txt```
+- First install the libraries listed in ```requirements.txt```
     - I.e. with pip: run ```pip3 install -r requirements.txt```
-- ```models``` directory contains instructions on running implementations
+- ```models``` directory contains instructions on reproductive implementations of each of the models
